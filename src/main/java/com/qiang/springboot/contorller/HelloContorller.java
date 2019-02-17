@@ -11,6 +11,6 @@ public class HelloContorller {
     @ResponseBody
     public String A(){
         System.out.println("sd");
-        return "你就个憨批";
+        return "你就个憨批开始发售";
     }
 }
